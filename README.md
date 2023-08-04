@@ -4,7 +4,7 @@ Lecture materials and exercises for the Princeton Neuroscience Institute's 2023 
 
 ## Downloading the code
 
-To download this code, you acn either check out this repository with `git`, by doing the following
+To download this code, you can either check out this repository with `git`, by doing the following
 ```
 git clone https://github.com/PrincetonUniversity/pni_bootcamp_2023.git
 ```
